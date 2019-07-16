@@ -1,0 +1,7 @@
+{
+  "name": "test-pipelines",
+  "private": true,
+  "dependencies": {
+  	"webpack": "^4.31.0"
+  }
+}
