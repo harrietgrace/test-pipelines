@@ -1,2 +1,3 @@
 steps:
-  - command: script.sh
+  - command: echo "Hello friend"
+  - command: echo "Test filter"
