@@ -2,7 +2,9 @@
 set -euo pipefail
 
 # install webpack
-npm install
+# npm install
 
 # try the upload
-buildkite-agent artifact upload "node_modules/**/*"
+#buildkite-agent artifact upload "node_modules/**/*"
+
+echo hello
